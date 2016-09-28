@@ -32,9 +32,4 @@ Image
 
 
 
-One of my mission this year is : Watch all tv shows & movies 
-that I have on my list (there are soooo many !)
-Since this is one of my favourite hobbie, I choose to talk about 
-it in my blog. For me, series & movies represents an excellent way to escape reality & relax 
-after a long day (as in license where we go back home at 8pm…).
-So, i’m gonna present you all of my favourite tv shows & movies !
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
