@@ -1,14 +1,5 @@
+---
 title: Mon Site
-collection:
-  cours: 
-    output: true
-
-    url: flatifles/
-
-
-    title: Paper-craft
-url: 'https://snipcart.github.io/snipcart-jamstack'
-snipcart_api_key: ''
 timezone: UTC
 collections:
   posts:
@@ -37,4 +28,11 @@ defaults:
     type: pages
   values:
     layout: page
+collection:
+  cours:
+    output: true
+    url: flatifles/
+    title: Paper-craft
+url: https://snipcart.github.io/snipcart-jamstack
+snipcart_api_key: ''
 permalink: pretty
