@@ -1,0 +1,10 @@
+---
+layout: page
+title: Cours
+---
+{% for cours in site.cours %}
+  <div class="cours">
+    <h2><img src="{{ cours.image_path }}" alt="{{ cours.title }}">{{ cours.title }}</a></h2>
+    {{ cours.content }}
+  </div>
+{% endfor %}

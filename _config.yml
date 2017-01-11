@@ -1,0 +1,6 @@
+title: Mon Site
+collection:
+  cours: 
+    output: true
+
+    url: flatifles/

@@ -1,0 +1,29 @@
+body {
+	font-family: 'Helvetica', sans-serif;
+}
+
+
+.wrapper {
+	margin: 0 auto;
+	max-width: 45rem ;
+}
+
+header {
+	background-image: url(../img/montagne.jpg);
+	background-size: cover;
+	background-position: 50% 50%;
+	height: 500px;
+}
+
+
+
+nav a {
+	color: white;
+	text-decoration: none;
+
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}

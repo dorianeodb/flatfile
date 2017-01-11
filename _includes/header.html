@@ -1,0 +1,20 @@
+        <header>
+        	<h1>Github Pages</h1>
+
+        	<nav>
+        		<ul>
+        		{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}}
+        	{%for page in navigation_pages %}
+        		<li>
+          <a href="{{ page.url }}" >{{ page.title }}
+          
+         </a>
+        </li>
+
+        {%endfor%}
+ 
+
+             	</ul>   
+            </nav>
+        </header>
+        

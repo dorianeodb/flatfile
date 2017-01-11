@@ -1,0 +1,27 @@
+---
+title: Equipe
+layout: partners
+---
+
+
+<ul>
+     {%  for partner in site.data.partners %}
+        <li>
+            <p>{{ partner.nom }}</p>
+            <p>{{ partner.hobbies }}</p>
+            <p>{{ partner.age }}</p>
+        </li>
+     {% endfor %}
+</ul>
+
+
+
+<ul>
+     {%  for ligue in site.data.clubs %}
+      	(% for club in ligue[1]%)
+
+      	{{club.name}}
+
+      {% endfor %}
+      {% endfor %}
+</ul>
