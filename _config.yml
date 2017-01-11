@@ -1,6 +1,14 @@
+---
 title: Mon Site
-collection:
-  cours: 
+timezone: UTC
+collections:
+  posts:
+    title: Posts
     output: true
-
+  uploads:
+    title: Uploads
+    output: true
+collection:
+  cours:
+    output: true
     url: flatifles/
