@@ -11,7 +11,28 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: product
+    permalink: "/products/:title/"
+    name: ''
+    price: 0.0
+    sku: ''
+    image: ''
+    weight: 0.0
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
 collection:
   cours:
     output: true
     url: flatifles/
+    title: Paper-craft
+url: https://snipcart.github.io/snipcart-jamstack
+snipcart_api_key: ''
+permalink: pretty
